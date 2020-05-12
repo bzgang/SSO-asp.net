@@ -1,0 +1,8 @@
+C:\Users\98139\Desktop\wujian_sso\SSO\SiteA\bin\SSO.SiteA.dll.config
+C:\Users\98139\Desktop\wujian_sso\SSO\SiteA\bin\SSO.SiteA.dll
+C:\Users\98139\Desktop\wujian_sso\SSO\SiteA\bin\SSO.SiteA.pdb
+C:\Users\98139\Desktop\wujian_sso\SSO\SiteA\bin\SSO.Common.dll
+C:\Users\98139\Desktop\wujian_sso\SSO\SiteA\bin\SSO.Common.pdb
+C:\Users\98139\Desktop\wujian_sso\SSO\SiteA\obj\Release\SiteA.csprojResolveAssemblyReference.cache
+C:\Users\98139\Desktop\wujian_sso\SSO\SiteA\obj\Release\SSO.SiteA.dll
+C:\Users\98139\Desktop\wujian_sso\SSO\SiteA\obj\Release\SSO.SiteA.pdb

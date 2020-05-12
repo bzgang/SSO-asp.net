@@ -1,0 +1,14 @@
+C:\Users\98139\Desktop\wujian_sso\SSO\Passport\bin\SSO.Passport.dll.config
+C:\Users\98139\Desktop\wujian_sso\SSO\Passport\bin\SSO.Passport.dll
+C:\Users\98139\Desktop\wujian_sso\SSO\Passport\bin\SSO.Passport.pdb
+C:\Users\98139\Desktop\wujian_sso\SSO\Passport\obj\Release\SSO.Passport.dll
+C:\Users\98139\Desktop\wujian_sso\SSO\Passport\obj\Release\SSO.Passport.pdb
+D:\testMyProject\SSO\Passport\bin\SSO.Passport.dll.config
+D:\testMyProject\SSO\Passport\bin\SSO.Passport.dll
+D:\testMyProject\SSO\Passport\bin\SSO.Passport.pdb
+D:\testMyProject\SSO\Passport\bin\Newtonsoft.Json.dll
+D:\testMyProject\SSO\Passport\bin\SqlSugar.dll
+D:\testMyProject\SSO\Passport\bin\Newtonsoft.Json.xml
+D:\testMyProject\SSO\Passport\obj\Release\SSO.Passport.dll
+D:\testMyProject\SSO\Passport\obj\Release\SSO.Passport.pdb
+D:\testMyProject\SSO\Passport\obj\Release\Passport.csprojResolveAssemblyReference.cache
